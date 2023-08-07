@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @unicolalala
-- 👀 I’m interested in ...Desenvolver apliações funcionais
-- 🌱 I’m currently learning ...MySQL, JavaScript, HTML, CSS, Python, Java
-- 💞️ I’m looking to collaborate on ...fullstack development
+- 👀 I’m interested in ...Data analisys for maintenance
+- 🌱 I’m currently learning ...MySQL, Python, Java
+- 💞️ I’m looking to collaborate on ... Performance departament
 - 📫 How to reach me ...+5511961248104
 
 <!---
