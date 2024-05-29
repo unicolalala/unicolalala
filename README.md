@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @unicolalala
-- 👀 I’m interested in ...Data analisys for maintenance
-- 🌱 I’m currently learning ...MySQL, Python, Java
+- 👀 I’m interested in ...Data analisys
+- 🌱 I’m currently learning ...MySQL, Python, Jupyter notebook
 - 💞️ I’m looking to collaborate on ... Performance departament
 - 📫 How to reach me ...+5511961248104
 
